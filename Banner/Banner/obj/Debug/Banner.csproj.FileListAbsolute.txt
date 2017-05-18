@@ -1,0 +1,6 @@
+\\imma-fs-0003\mathias.vansant$\documents\visual studio 2015\Projects\Banner\Banner\bin\Debug\Banner.exe.config
+\\imma-fs-0003\mathias.vansant$\documents\visual studio 2015\Projects\Banner\Banner\bin\Debug\Banner.exe
+\\imma-fs-0003\mathias.vansant$\documents\visual studio 2015\Projects\Banner\Banner\bin\Debug\Banner.pdb
+\\imma-fs-0003\mathias.vansant$\documents\visual studio 2015\Projects\Banner\Banner\obj\Debug\Banner.csprojResolveAssemblyReference.cache
+\\imma-fs-0003\mathias.vansant$\documents\visual studio 2015\Projects\Banner\Banner\obj\Debug\Banner.exe
+\\imma-fs-0003\mathias.vansant$\documents\visual studio 2015\Projects\Banner\Banner\obj\Debug\Banner.pdb
